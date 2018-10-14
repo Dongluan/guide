@@ -36,12 +36,12 @@ Wenn Sie keinen `stub` über das Thema finden, über das Sie schreiben möchten,
 
 Wenn Sie sich nicht sicher sind, wo Sie einen neuen Artikel in die Verzeichnisstruktur eintragen sollen, stellen Sie uns bitte Fragen[via Gitter](https://gitter.im/freeCodeCamp/Contributors).
 
-Bevor Sie mit dem Schreiben beginnen, lesen Sie unbedingt den [Artikel Style-Guide](https://github.com/freeCodeCamp/guide/blob/master/CONTRIBUTING.md#article-style-guide), der in der [CONTRIBUTING.md](CONTRIBUTING.md) beschrieben ist.
+Bevor Sie mit dem Schreiben beginnen, lesen Sie unbedingt den [Artikel Style-Guide](https://github.com/freeCodeCamp/guide/blob/master/CONTRIBUTING.md#article-style-guide), der in der [CONTRIBUTING.md](https://github.com/freeCodeCamp/guide/blob/master/CONTRIBUTING.md) beschrieben ist.
 
 ## Contributing (Beitragen)
 
 1. 🍴 Fork dieses Repository
-2. 👀️ Befolgen Sie die beigefügten Contributing-Richtlinien:  [CONTRIBUTING.md](CONTRIBUTING.md).
+2. 👀️ Befolgen Sie die beigefügten Contributing-Richtlinien:  [CONTRIBUTING.md](https://github.com/freeCodeCamp/guide/blob/master/CONTRIBUTING.md).
 3. 🔧 Mache ein paar tolle Änderungen!
 4. 👉 [Erstelle einen Pull-Request](https://github.com/freeCodeCamp/guide/compare)
 5. 🎉 Lassen Sie Ihren Pull-Request genehmigen - Erfolg!
